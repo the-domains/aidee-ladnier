@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "So, I may be an anomaly. I don't just write romance with males and females. Or romance with two males. Or even romance with two females. I really want to write all of them. I want my written universe to have all kinds of people. I want trans characters who fall in love. I want characters of all races, all sexualities, all orientations to find themselves caught up in my stories.\_"
-datePublished: '2016-04-15T02:36:07.654Z'
-dateModified: '2016-04-15T02:34:09.250Z'
-title: 'On gender, identity, and orientation'
+description: "So, I may be an anomaly. I don't just write romance with males and females. Or romance with two males. Or even romance with two females. I really want to write all of them. I want my written universe to have all kinds of people. I want trans characters who fall in love. I want characters of all races, all sexualities, all orientations to find themselves caught up in my stories. "
+datePublished: '2016-04-19T02:00:24.064Z'
+dateModified: '2016-04-19T02:00:23.739Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-15-on-gender-identity-and-orientation.md
 published: true
