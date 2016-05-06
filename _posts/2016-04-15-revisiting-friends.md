@@ -6,14 +6,13 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'So I recently reclaimed the rights to my first story with Dr. Forbes Pohle, the lonely roboticist, and his time-traveling lover, Oliver Lennox. As the second story in the Busted Labs series, The Break-in, is still under contract with Dreamspinner Press, I gave them a first chance at republishing it. '
-datePublished: '2016-04-19T01:58:58.773Z'
-dateModified: '2016-04-19T01:58:54.425Z'
+datePublished: '2016-05-06T19:58:43.109Z'
+dateModified: '2016-04-20T00:55:50.951Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-15-revisiting-friends.md
-published: true
 authors: []
 publisher:
   name: null
