@@ -1,29 +1,18 @@
-name: Aidee Ladnier
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.06487
-title: 'because quirky characters fall in love, too...'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#e2e2d6'
+    - '#E0E2D4'
     - '#000000'
-    - '#2b2f2e'
-    - '#aa0233'
-    - '#fe224d'
+    - '#FEFEFE'
+    - '#BFC0BA'
+    - '#2D2E33'
   brandStrength: 1
   lightness: 0.8125
-  saturation: 0.1875
   rhythmicContrast: 0.75
+  saturation: 0.1875
+cta: {}
+layout_spectrum: 1
+name: Aidee Ladnier
+opengraph: {}
 purpose: []
+typography_spectrum: 0.06487
