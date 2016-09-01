@@ -1,4 +1,11 @@
+name: Aidee Ladnier
+layout_spectrum: 1
+typography_spectrum: 0.06487
+cta: {}
 analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#E0E2D4'
@@ -8,11 +15,13 @@ color:
     - '#2D2E33'
   brandStrength: 1
   lightness: 0.8125
-  rhythmicContrast: 0.75
   saturation: 0.1875
-cta: {}
-layout_spectrum: 1
-name: Aidee Ladnier
-opengraph: {}
+  rhythmicContrast: 0.75
 purpose: []
-typography_spectrum: 0.06487
+title: 'because quirky characters fall i  love, too...'
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
